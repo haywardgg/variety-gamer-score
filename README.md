@@ -1,6 +1,17 @@
 # variety-gamer-score
 Grabs the top 100 games on steam and lets you test your Variety Gamer score!
 
+## 📜 License
+
+This project is source-available.<br/>
+Free for non-commercial use with attribution.<br/>
+Commercial use requires permission.
+
+## Commercial License
+
+Commercial licenses are available.
+Contact: hayward@proton.me or GitHub issues.
+
 ## Screenshots
 
 <img width="545" height="673" alt="VARIETY gamer score" src="https://github.com/user-attachments/assets/eccd0ae4-549f-4c0c-8721-49ffd1ca9839" />
