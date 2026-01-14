@@ -5,8 +5,6 @@ Grabs the top 100 games on steam and lets you test your Variety Gamer score!
 🔗 <strong>**Live demo:**</strong> https://pcgamers.win/gamerscore/
 
 ---
-## 🤗 FIRST: Shoutout to all my beta testers
-My Girlfriend & My family, [Assassina San](https://www.youtube.com/@ASSASSINASAN), Nomadic, [GhostShadow](https://www.twitch.tv/ghostshadow_plays) ... 
 
 ## 🌟 What’s inside
 
@@ -89,10 +87,9 @@ The web server needs **read access** to:
 
 ---
 
-## 💬 About
+## 🤗 Shoutout to all my beta testers
 
-Built for fun by **PCGamers.win**. Enjoy, tweak it, and make it yours! 🎉
-
+My Girlfriend & My family, [Assassina San](https://www.youtube.com/@ASSASSINASAN), Nomadic, [GhostShadow](https://www.twitch.tv/ghostshadow_plays) ... 
 
 ## 📜 License
 
