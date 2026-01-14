@@ -1,6 +1,6 @@
 # 🎮✨ Variety Gamer Score
 
-Grabs the top 100 games on steam and lets you test your Variety Gamer score!
+Selects 50 of the Top Played Steam games at random and lets you test your Variety Gamer score!
 
 🔗 <strong>**Live demo:**</strong> https://pcgamers.win/gamerscore/
 
