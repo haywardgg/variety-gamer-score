@@ -2,7 +2,7 @@
 
 Grabs the top 100 games on steam and lets you test your Variety Gamer score!
 
-<p align="center">🔗 <strong>**Live demo:**</strong> https://pcgamers.win/varietygamerscore/</p>
+🔗 <strong>**Live demo:**</strong> https://pcgamers.win/gamerscore/
 
 ---
 ## 🤗 FIRST: Shoutout to all my beta testers
