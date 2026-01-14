@@ -52,7 +52,7 @@ $showGames = $totalGames > 0;
                     <i class="fa-solid fa-gamepad"></i>
                     <span class="hero__badge-text">PCGamers.win</span>
                 </a>
-                <a class="hero__badge" href="https://github.com/haywardgg" aria-label="GitHub">
+                <a class="hero__badge" href="https://github.com/haywardgg/variety-gamer-score" aria-label="GitHub">
                     <i class="fa-brands fa-github"></i>
                 </a>
             </div>
