@@ -1,5 +1,98 @@
-# variety-gamer-score
+# 🎮✨ Variety Gamer Score
+
 Grabs the top 100 games on steam and lets you test your Variety Gamer score!
+
+<p align="center">🔗 <strong>**Live demo:**</strong> https://pcgamers.win/varietygamerscore/</p>
+
+---
+## 🤗 FIRST: Shoutout to all my beta testers
+My Girlfriend & My family, [Assassina San](https://www.youtube.com/@ASSASSINASAN), Nomadic, [GhostShadow](https://www.twitch.tv/ghostshadow_plays) ... 
+
+## 🌟 What’s inside
+
+- ⚡ **Fast, simple PHP** — no framework required.
+- 🧠 **Steam Top list** generated locally via `steamtopimport.php` (or the `api/steam-top100.php` endpoint).
+- 🖼️ **Image cache** stored in `assets/cache/steam-images/` inside this folder.
+
+---
+
+## 🚀 Quick start
+
+1. **Serve the repo** with PHP (Apache/Nginx + PHP-FPM works great).
+2. Generate data by running `php steamtopimport.php` (or visit `api/steam-top100.php`) to populate `data/steam-top100.json`.
+3. Visit **`index.php`** in your browser (a sample `data/steam-top100.json` is included for offline use).
+
+---
+
+## 🧰 Dependencies (Ubuntu)
+
+To run the site and scorecard export without errors, install:
+
+- **PHP 8+** (CLI + web SAPI)
+- **PHP mbstring extension** (scorecard tagline rendering)
+- **PHP Imagick extension** (thumbnail + scorecard image processing)
+- **ImageMagick** (Imagick backend)
+
+### ✅ Ubuntu install commands
+
+```bash
+sudo apt update
+sudo apt install -y \
+  php \
+  php-cli \
+  php-curl \
+  php-mbstring \
+  php-imagick \
+  imagemagick
+sudo systemctl restart php8.3-fpm # or php8.4-fpm / php8.2-fpm / php8.1-fpm depending on your setup
+sudo nginx -t && sudo systemctl reload nginx
+```
+
+> If you are using Apache, make sure `libapache2-mod-php` is installed or configure PHP-FPM for Nginx.
+
+---
+
+## 🔐 Securing server files (important!)
+
+Please lock things down so the site stays safe and stable:
+
+### ✅ Recommended permissions
+
+- **Directories:** `755`
+- **Public files:** `644`
+- **Secret files (API keys):** `600`
+
+### ✅ Writable locations (web server user only)
+
+The web server needs **read access** to:
+
+- `data/steam-top100.json`
+- `assets/cache/steam-images/`
+
+### ✅ Protect sensitive files
+
+- Keep **API keys outside the web root** (as in `/var/www/secrets/apikeys.php`).
+- If you must store secrets in the repo, **deny web access** via server config.
+- Consider **password-protecting `build.php`** or limiting it by IP.
+
+---
+
+## 📁 Project map
+
+- `index.php` → main variety score page
+- `scorecard.php` → score breakdown view
+- `data/steam-top100.json` → Steam Top list used by the app
+- `api/steam-top100.php` → local API endpoint for the top list
+- `steamtopimport.php` → generates `data/steam-top100.json` and caches images
+- `assets/cache/steam-images/` → image cache used by the importer
+- `assets/` → CSS, images, scorecard assets
+
+---
+
+## 💬 About
+
+Built for fun by **PCGamers.win**. Enjoy, tweak it, and make it yours! 🎉
+
 
 ## 📜 License
 
