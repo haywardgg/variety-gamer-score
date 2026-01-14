@@ -1,0 +1,39 @@
+{
+  "tiers": {
+    "0": [
+      "Respectfully… how?",
+      "Achievement unlocked: Skipped.",
+      "Did you blink and miss gaming?"
+    ],
+    "10": [
+      "Do you even own a controller?",
+      "Tutorial level energy.",
+      "Steam library: untouched."
+    ],
+    "30": [
+      "Sleep less, game more!",
+      "Backlog loading…",
+      "There’s still time."
+    ],
+    "50": [
+      "A true variety gamer.",
+      "Perfectly balanced.",
+      "This checks out."
+    ],
+    "70": [
+      "Certified gamer.",
+      "Impressive range!",
+      "You’ve seen some things."
+    ],
+    "90": [
+      "Do you ever log off?",
+      "Legendary commitment.",
+      "The backlog fears you."
+    ],
+    "100": [
+      "Okay, time to touch grass!",
+      "Achievement unlocked: Outside.",
+      "Steam servers miss you."
+    ]
+  }
+}

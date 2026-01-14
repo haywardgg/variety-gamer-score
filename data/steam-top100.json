@@ -1,0 +1,66 @@
+{
+  "generated_at": "2025-02-01T00:00:00Z",
+  "count": 10,
+  "games": [
+    {
+      "rank": 1,
+      "appid": 0,
+      "name": "Sample Game 1",
+      "thumbnail": "assets/misc/placeholder.svg"
+    },
+    {
+      "rank": 2,
+      "appid": 0,
+      "name": "Sample Game 2",
+      "thumbnail": "assets/misc/placeholder.svg"
+    },
+    {
+      "rank": 3,
+      "appid": 0,
+      "name": "Sample Game 3",
+      "thumbnail": "assets/misc/placeholder.svg"
+    },
+    {
+      "rank": 4,
+      "appid": 0,
+      "name": "Sample Game 4",
+      "thumbnail": "assets/misc/placeholder.svg"
+    },
+    {
+      "rank": 5,
+      "appid": 0,
+      "name": "Sample Game 5",
+      "thumbnail": "assets/misc/placeholder.svg"
+    },
+    {
+      "rank": 6,
+      "appid": 0,
+      "name": "Sample Game 6",
+      "thumbnail": "assets/misc/placeholder.svg"
+    },
+    {
+      "rank": 7,
+      "appid": 0,
+      "name": "Sample Game 7",
+      "thumbnail": "assets/misc/placeholder.svg"
+    },
+    {
+      "rank": 8,
+      "appid": 0,
+      "name": "Sample Game 8",
+      "thumbnail": "assets/misc/placeholder.svg"
+    },
+    {
+      "rank": 9,
+      "appid": 0,
+      "name": "Sample Game 9",
+      "thumbnail": "assets/misc/placeholder.svg"
+    },
+    {
+      "rank": 10,
+      "appid": 0,
+      "name": "Sample Game 10",
+      "thumbnail": "assets/misc/placeholder.svg"
+    }
+  ]
+}

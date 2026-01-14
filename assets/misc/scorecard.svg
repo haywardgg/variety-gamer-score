@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Scorecard background">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d2033"/>
+      <stop offset="100%" stop-color="#0f111a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <circle cx="1040" cy="120" r="180" fill="#6c5ce7" opacity="0.18"/>
+  <circle cx="200" cy="520" r="220" fill="#00cec9" opacity="0.12"/>
+</svg>
