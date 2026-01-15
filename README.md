@@ -1,10 +1,10 @@
-This version may differ slightly from the version on PCGamers.win
+This version may differ slightly from the version on VarietyGamer.win
 
 # 🎮✨ Variety Gamer Score
 
 Selects 50 of the Top Played Steam games at random and lets you test your Variety Gamer score!
 
-🔗 <strong>**Live demo:**</strong> https://pcgamers.win/gamerscore/
+🔗 <strong>**Live demo:**</strong> https://varietygamer.win/
 
 ---
 
