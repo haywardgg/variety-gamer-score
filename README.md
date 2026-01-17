@@ -111,6 +111,5 @@ Contact: hayward@proton.me or GitHub issues.
 <img width="300" height="450" alt="VARIETY gamer score" src="https://github.com/user-attachments/assets/46032b86-a3d6-4184-805d-c4d93abc102c" />
 <img alt="VARIETY gamer score" src="https://github.com/user-attachments/assets/6236b8aa-acd0-4462-a241-837638dd5486" />
 
-<img width="1920" height="918" alt="Game Database Admin - VarietyGamer win" src="https://github.com/user-attachments/assets/5b1249fb-2884-4c03-ad33-fde071ff7da4" />
 
 
