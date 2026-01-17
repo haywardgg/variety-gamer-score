@@ -110,3 +110,6 @@ Contact: hayward@proton.me or GitHub issues.
 <img width="538" height="443" alt="VARIETY gamer score" src="https://github.com/user-attachments/assets/a9dfc2d8-64ba-42c0-8c15-a19a14668c63" />
 <img width="300" height="450" alt="VARIETY gamer score" src="https://github.com/user-attachments/assets/46032b86-a3d6-4184-805d-c4d93abc102c" />
 <img alt="VARIETY gamer score" src="https://github.com/user-attachments/assets/6236b8aa-acd0-4462-a241-837638dd5486" />
+
+<img width="1920" height="7422" alt="Game Database Admin - VarietyGamer win" src="https://github.com/user-attachments/assets/466cbcf2-a81c-42a3-9fe3-7ffebc0ae242" />
+
