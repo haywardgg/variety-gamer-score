@@ -1,8 +1,8 @@
-<i>This is a cut down version (v1.0) of the one hosted at VarietyGamer.win <br>
+<i>This is a cut down version (v1.0) of the VGS hosted at VarietyGamer.win <br>
 i.e no database support, no challenge code feature or category selection, etc.<br>
 This version only selects games from the Steam Top 100 list. Feel free to modify!</i>
 
-# 🎮✨ Variety Gamer Score
+# 🎮✨ Variety Gamer Score (VGS)
 
 Selects 50 of the Top Played Steam games at random and lets you test your Variety Gamer score!
 
