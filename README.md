@@ -1,4 +1,4 @@
-This is cut down version on VarietyGamer.win (no database support, etc)
+This is a cut down version (v1.0) of the one hosted at VarietyGamer.win (i.e no database support, etc)
 
 # 🎮✨ Variety Gamer Score
 
